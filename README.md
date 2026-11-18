@@ -4,7 +4,7 @@ Project Overview
 
 This project evaluates whether an improved recommendation system increases user conversion compared to the existing version.
 
-The analysis uses A/B testing, conversion funnel analysis, exploratory data analysis, and statistical hypothesis testing to support a product decision.
+The analysis combines A/B testing, conversion funnel analysis, exploratory data analysis, and statistical hypothesis testing to support a data-driven product decision.
 
 Business Objective
 
@@ -17,7 +17,7 @@ Tools & Technologies
 - NumPy
 - Matplotlib
 - Seaborn
-- Statistical hypothesis testing
+- Statistical Hypothesis Testing
 - Jupyter Notebook
 
 Project Structure
@@ -47,6 +47,12 @@ Key Findings
   - Purchase: 10.32% lower.
 - The difference was statistically significant only at the product page stage.
 
+Business Impact
+
+The analysis provides evidence to support the decision not to implement the improved recommendation system based on the observed conversion results.
+
+It also highlights experimental design and data collection limitations that should be addressed before conducting a new test.
+
 Conclusion
 
 The analysis found no evidence that the improved recommendation system increased conversion.
@@ -56,4 +62,5 @@ Data quality and experimental design limitations — including group imbalance, 
 Author
 
 Gabriela Veriato
+
 "GitHub Profile" (https://github.com/VeriatoG)
